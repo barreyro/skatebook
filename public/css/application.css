@@ -40,3 +40,14 @@ li{
   height: 23em;
   overflow: auto
 }
+
+#video_view {
+  display: none;
+  height: 95%;
+}
+
+#music_view {
+  display: none;
+  height: 95%;
+}
+

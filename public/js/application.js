@@ -1,4 +1,5 @@
-$(document).ready(function() {
+$( document ).ready(function() {
+
     //carousel
     var listItems = $("#items").children('li'),
         activeImageItems = $('#selector').children('li'),

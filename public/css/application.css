@@ -12,4 +12,7 @@
 
 #footer{
   background: pink;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }

@@ -1,13 +1,24 @@
+body{
+  color: white;
+  background-image: url("../imgs/bg.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+}
+
+h1 {
+  color: white;
+}
 #links{
-  border: 1px solid black;
+  border: 2px solid pink;
 }
 
 #center_carousel{
-  border: 1px solid black;
+  border: 2px solid pink;
 }
 
 #twitter{
-  border: 1px solid black;
+  border: 2px solid pink;
 }
 
 #footer{

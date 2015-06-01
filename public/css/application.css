@@ -20,6 +20,7 @@ li{
 #center_carousel{
   border: 2px solid pink;
   background-color: grey;
+  height: 30em;
 }
 
 #twitter{
@@ -31,4 +32,11 @@ li{
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+#home_view {
+  display: none;
+  padding: 0 2.5%;
+  height: 23em;
+  overflow: auto
 }

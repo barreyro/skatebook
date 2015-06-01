@@ -16,9 +16,16 @@ gem 'activerecord', '~>4.1'
 
 gem 'rake'
 
+gem 'time_difference'
+
 gem 'shotgun'
+
+gem 'twitter'
+
+gem 'dotenv'
 
 group :test do
   gem 'faker'
   gem 'rspec'
 end
+

@@ -94,3 +94,12 @@ li{
 #video iframe {
     height: 100%;
 }
+
+/* twitter */
+#twitter {
+  height: 26em;
+  overflow: auto;
+}
+#twitter h3 {
+  color: pink;
+}

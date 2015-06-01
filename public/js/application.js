@@ -32,22 +32,22 @@ $(document).ready(function() {
     move('next');
 
     $("#home_link").click(function() {
-        $("#center_view").children().hide();
+        $("#center_carousel").children().hide();
         $("#home_view").fadeIn(1000);
     });
 
     $("#video_link").click(function() {
-        $("#center_view").children().hide();
+        $("#center_carousel").children().hide();
         $("#video_view").fadeIn(1000);
     });
 
-    $(".pictures_link").click(function() {
-        $("#center_view").children().hide();
+    $("#pictures_link").click(function() {
+        $("#center_carousel").children().hide();
         $("#carousel").fadeIn(1000);
     });
 
     $("#music_link").click(function() {
-        $("#center_view").children().hide();
+        $("#center_carousel").children().hide();
         $("#music_view").fadeIn(1000);
     });
 });

@@ -5,5 +5,6 @@ class CreateTweets < ActiveRecord::Migration
       t.belongs_to :twitter_user
 
       t.timestamps
+    end
   end
 end
